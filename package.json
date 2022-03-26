@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Hrithik-s-Raj/Node_Farm/issues"
   },
-  "homepage": "https://github.com/Hrithik-s-Raj/Node_Farm#readme"
+  "homepage": "https://github.com/Hrithik-s-Raj/Node_Farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
